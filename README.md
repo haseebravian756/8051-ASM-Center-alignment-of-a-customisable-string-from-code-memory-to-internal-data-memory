@@ -1,0 +1,2 @@
+# 8051-ASM-Center-alignment-of-a-customisable-string-from-code-memory-to-internal-data-memory
+Center alignment of a sentence (ASCII string) in a memory field of given character length.  The size of the field, an alignment character are input parameters. The program uses space characters (ASCII code: 0x20) to fill the empty  positions by default. The field which contains the aligned text does not need to be null terminated.
